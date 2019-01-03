@@ -1,5 +1,6 @@
 # Titre : Se lancer dans le développement de jeux mobiles avec Unity
 d’après la conférence “Unity 3D - Retour d'expérience sur une app d'1M download” de Florian Duboc, Codeurs en Seine 2018
+![Illustration](Unity_Technologies_logo.svg.png)
 
 ## Cartouche d'identification
 
@@ -14,7 +15,7 @@ https://fr.linkedin.com/in/florian-duboc-6100989b
  - Audience : Tout public
  - Auteur du billet : Sylvie Russias
  - Mots-clés : Unity - jeu vidéo - jeu mobile
- - URL de l'illustration : ![Illustration](Unity_Technologies_logo.svg.png)
+ - URL de l'illustration : https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Unity_Technologies_logo.svg/1200px-Unity_Technologies_logo.svg.png 
 
 ## Support
  - Lien vers le support (diapos) présenté en conférence : Indisponible
