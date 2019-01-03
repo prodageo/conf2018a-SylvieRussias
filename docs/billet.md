@@ -27,15 +27,15 @@ https://fr.linkedin.com/in/florian-duboc-6100989b
  - Plan du support : Non communiqué
 
 ## Résumé
-Florian Duboc, développeur J2EE dans une ESN et amateur de jeux vidéos, a décidé de créer son premier jeu vidéo.
-
-Son jeu, Little Demolition, est un Puzzle Game, inspiré du célèbre jeu mobile Angry Birds. Le joueur doit placer des bombes dans une structure pour la détruire au maximum et ainsi marquer un maximum de points.
+Florian Duboc, développeur J2EE dans une ESN et amateur de jeux vidéos, a décidé de créer son premier jeu vidéo. Son jeu, Little Demolition, est un Puzzle Game, inspiré du célèbre jeu mobile Angry Birds. Le joueur doit placer des bombes dans une structure pour la détruire au maximum et ainsi marquer un maximum de points.
 
 Florian Duboc partage les raisons qui l’ont poussé à utiliser le moteur de jeu Unity.
 
-Unity est le moteur de jeu le plus populaire, possédant une grande communauté, avec de nombreux tutoriels et de nombreuses ressources disponibles. De plus, l’outil est gratuit tant les revenus générés par le jeu ne dépassent pas une certaine limite. Un autre avantage, que l’on retrouve sur plusieurs éditeurs, est la possibilité d’export cross-platform. Florian Duboc tient cependant à nuancer cela : pour faire une application IOS, il est nécessaire de la réaliser avec un Mac. 
+Unity est le moteur de jeu le plus populaire, possédant une grande communauté, avec de nombreux tutoriels et de nombreuses ressources disponibles. De plus, l’outil est gratuit tant les revenus générés par le jeu ne dépassent pas une certaine limite. 
 
-Il a été très simple d’inclure des publicités dans son jeu, en utilisant des ressources à la disposition des développeurs Unity. Ainsi, en un an et avec 1 million de téléchargements sur le Play Store et l’App Store réunis, les publicités  sous forme de vidéos dans l’application ont généré 30 000 dollars.
+Un autre avantage, que l’on retrouve sur plusieurs éditeurs, est la possibilité d’export cross-platform. Florian Duboc tient cependant à nuancer cela : pour faire une application IOS, il est nécessaire de la réaliser avec un Mac. 
+
+Il a été très simple d’inclure des publicités dans son jeu, en utilisant des ressources à la disposition des développeurs Unity. Ainsi, en un an et avec 1 million de téléchargements sur le Play Store et l’App Store réunis, les publicités sous forme de vidéos dans Little Demolition ont généré 30 000 dollars.
 
 ## Architecture et facteur qualité
 Pour un moteur de jeu, on peut retenir les facteurs qualité suivants :
