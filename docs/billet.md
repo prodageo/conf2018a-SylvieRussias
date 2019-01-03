@@ -2,19 +2,18 @@
 
 ## Cartouche d'identification
 
- - Manifestation : CodeursEnSeine 2017
- - Lieu : Université de Rouen - site du Madrillet
- - Conférence : ...
- - Horaire de la conférence : ...
- - Durée de la conférence : ...
+ - Manifestation : CodeursEnSeine 2018
+ - Lieu :  Kindarena, 40 Rue de Lillebonne, 76000 Rouen
+ - Conférence : Unity 3D - Retour d'expérience sur une app d'1M download
+ - Horaire de la conférence : 16h40
+ - Durée de la conférence : 45 minutes
  - Conférencier(s) :
-   - ... (lien vers au moins un réseau social : LinkedIn, Twitter, site personnel, ...)
-   - ...
- - Audience : ...
- - Auteur du billet : ...
- - Mots-clés
- - URL de l'illustration : ![Mettre votre image, Photo by Oscar Keys on Unsplash](oscar-keys-58399-unsplash.jpg)
-   - quelques sources : https://unsplash.com, https://xkcd.com/, http://dev.to/rly, ...
+   Florian Duboc
+https://fr.linkedin.com/in/florian-duboc-6100989b
+ - Audience : Tout public
+ - Auteur du billet : Sylvie Russias
+ - Mots-clés : Unity - jeu vidéo - jeu mobile
+ - URL de l'illustration : ![https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Unity_Technologies_logo.svg/1200px-Unity_Technologies_logo.svg.png ]
 
 ## Support
  - Lien vers le support (diapos) présenté en conférence
