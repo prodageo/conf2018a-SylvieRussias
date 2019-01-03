@@ -34,7 +34,11 @@ Il a été très simple d’inclure des publicités dans son jeu, en utilisant d
 
 ## Architecture et facteur qualité
 Pour un moteur de jeu, on peut retenir les facteurs qualité suivants :
-Popularité : présence d’une communauté et aide disponible
-Facilité d’utilisation : ce qu’il est possible de faire depuis l’interface graphique de l’éditeur, combien de temps ça prend, combien de temps ça prend d’apprendre à le faire
-Ressources disponibles : ressources compatibles disponibles 
-Interopérabilité : possibilité de créer des applications pour différents systèmes d’exploitation
+
+- Popularité : présence d’une communauté et aide disponible,
+
+- Facilité d’utilisation : ce qu’il est possible de faire depuis l’interface graphique de l’éditeur, combien de temps ça prend, combien de temps ça prend d’apprendre à le faire,
+
+- Ressources disponibles : ressources compatibles disponibles,
+
+- Interopérabilité : possibilité de créer des applications pour différents systèmes d’exploitation.
