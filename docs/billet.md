@@ -14,7 +14,7 @@ https://fr.linkedin.com/in/florian-duboc-6100989b
  - Audience : Tout public
  - Auteur du billet : Sylvie Russias
  - Mots-clés : Unity - jeu vidéo - jeu mobile
- - URL de l'illustration : 
+ - URL de l'illustration : ![Illustration](Unity_Technologies_logo.svg.png)
 
 ## Support
  - Lien vers le support (diapos) présenté en conférence : Indisponible
